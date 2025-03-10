@@ -68,6 +68,10 @@ p {
     a { padding-right: 15px; text-decoration: none;}
 }
 
+#introduce div {
+    padding: 10px 0;
+}
+
 /* timeline */
 .timeline{
     display: flex;
